@@ -2,7 +2,10 @@ Package: annieUtils
 Title: In-development package for commonly used functions/settings to be shared across colleagues 
 Version: 0.0.0.9000
 Authors@R: 
-    person("Annie", "Aitken",)
+        person(given = "Annie", 
+           family = "Aitken", 
+           email = "annie@makevisible.com", 
+           role = c("aut", "cre"))
 Description: Simple functions to share with friends or colleagues to reduce 'reinventing the wheel' with common stats and data processing needs.
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
