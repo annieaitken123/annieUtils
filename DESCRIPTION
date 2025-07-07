@@ -1,5 +1,5 @@
 Package: annieUtils
-Title: What the Package Does (One Line, Title Case)
+Title: In-development package for commonly used functions/settings to be shared across colleagues 
 Version: 0.0.0.9000
 Authors@R: 
     person("Annie", "Aitken",)
