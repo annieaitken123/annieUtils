@@ -4,7 +4,7 @@ Version: 0.0.0.9000
 Authors@R: 
         person(given = "Annie", 
            family = "Aitken", 
-           email = "annie@makevisible.com", 
+           email = "aitkenannie@gmail.com", 
            role = c("aut", "cre"))
 Description: Simple functions to share with friends or colleagues to reduce 'reinventing the wheel' with common stats and data processing needs.
 Encoding: UTF-8
